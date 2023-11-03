@@ -2,7 +2,7 @@
 # SISTEM MANAJEMEN PEMINJAMAN RUANGAN
 # SISTEM INFORMASI A
 Nama Anggota Kelompok 15
-1. Muhammad Nur Fadhilah
+1. Muhamad Nur Fadilah
 2. Diva Tri Andini
 3. M. Rofiif Taqiyyuddin Nabil
 4. Muhammad Alfian Adien 
